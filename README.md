@@ -18,3 +18,18 @@ Each folder represents one week of assignments with:
 - SQL solutions
 - Problem explanation
 - Key learnings
+
+# Week 04 – Advanced SQL Queries
+
+## Topics Covered
+- ORDER BY & LIMIT
+- Aggregate Functions (COUNT, SUM, AVG, MAX, MIN)
+- GROUP BY & HAVING
+- Window Functions (RANK, DENSE_RANK)
+
+## Description
+This assignment demonstrates advanced SQL querying techniques using
+sorting, aggregation, grouping, and window functions.
+
+## Author
+Subitsha Eswaran
